@@ -16,6 +16,7 @@ body {
     border: solid gray 2px;
     border-radius: 10px;
     padding: 2rem;
+    color: blue;
 }
 
 .title {
