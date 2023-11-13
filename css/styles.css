@@ -15,10 +15,12 @@ body {
     margin: 0 auto;
     border: solid gray 2px;
     border-radius: 10px;
+    padding: 2rem;
 }
 
 .title {
     font-size: 2rem;
+    margin-bottom: 1rem;
     
 }
 
@@ -27,6 +29,7 @@ body {
     color:  white;
     padding: 1rem;
     border-radius: 10px;
+    margin-top: 1rem;
 }
 
 .head {
